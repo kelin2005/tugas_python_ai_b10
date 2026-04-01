@@ -1,0 +1,24 @@
+RINGKASAN STATISTIK NILAI UJIAN
+========================================
+
+STATISTIK NUMPY:
+Rata-rata: 73.70
+Median: 71.00
+Standar Deviasi: 11.71
+Nilai Minimum: 57
+Nilai Maximum: 92
+
+RINGKASAN DATAFRAME:
+Jumlah total baris: 10
+Jumlah yang LULUS: 6
+Jumlah yang TIDAK LULUS: 4
+Tingkat kelulusan: 60.0%
+
+
+========================================
+RINGKASAN DARI GRADEBOOK OOP:
+========================================
+Jumlah data: 10
+Rata-rata nilai: 73.70
+Tingkat kelulusan: 60.0%
+Threshold kelulusan: 70.0
